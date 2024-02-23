@@ -51,6 +51,10 @@ console.log(colors.list[11]);
 console.log(colors.random()); // get random color pair
 ```
 
+## Screenshots
+
+![Screenshot](media/screenshot.png)
+
 ## License
 
 MIT © [Rushan Alyautdinov](https://github.com/akgondber)
