@@ -21,8 +21,8 @@ export const coloremeList: ColorItem[] = [
 	},
 	{
 		name: 'redBlue',
-		color: '#0000ff',
-		bgColor: '#ffffff',
+		color: '#FF0000',
+		bgColor: '#0000ff',
 	},
 	{
 		name: 'blueBlack',
@@ -43,6 +43,71 @@ export const coloremeList: ColorItem[] = [
 		name: 'yellowBlack',
 		color: '#ffff00',
 		bgColor: '#000000',
+	},
+	{
+		name: 'TealTangerine',
+		color: '#80C4B7',
+		bgColor: '#E3856B',
+	},
+	{
+		name: 'PrussianBlueMustard',
+		color: '#3B5BA5',
+		bgColor: '#E87A5D',
+	},
+	{
+		name: 'PeriwinkleLime',
+		color: '#678CEC',
+		bgColor: '#BBCB50',
+	},
+	{
+		name: 'BlondeYellowCandyPink',
+		color: '#F9EC7E',
+		bgColor: '#E26274',
+	},
+	{
+		name: 'RaspberryPinkDarkChocolate',
+		color: '#B2456E',
+		bgColor: '#552619',
+	},
+	{
+		name: 'SagePineGreen',
+		color: '#EDF4F2',
+		bgColor: '#31473A',
+	},
+	{
+		name: 'LightBlueCobalt',
+		color: '#CADCFC',
+		bgColor: '#00246B',
+	},
+	{
+		name: 'CanaryYellowOffBlack',
+		color: '#D3CAE2',
+		bgColor: '#404041',
+	},
+	{
+		name: 'LilacOrange',
+		color: '#D5CAE4',
+		bgColor: '#E59462',
+	},
+	{
+		name: 'SunshineYellowSapphireBlue',
+		color: '#F2EC9B',
+		bgColor: '#1803A5',
+	},
+	{
+		name: 'GraystoneEmerald',
+		color: '#D9DAD9',
+		bgColor: '#4C8055',
+	},
+	{
+		name: 'ElectricPinkPowderBlue',
+		color: '#DF3C5F',
+		bgColor: '#6F9BD1',
+	},
+	{
+		name: 'BlushRoseBrown',
+		color: '#E17888',
+		bgColor: '#341514',
 	},
 	{
 		name: 'BluePastelPink',
