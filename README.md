@@ -19,15 +19,15 @@ yarn add coloreme
 ```javascript
 import { coloreme, coloremeList, colors } from 'coloreme';
 
-console.log(coloreme.BluePastelPink);
+console.log(coloreme.LightBlueCobalt);
 /*
 {
-  name: 'BluePastelPink',
-  color: '#2F3C7E',
-  bgColor: '#FBEAEB',
-  c: '#2F3C7E',
-  b: '#FBEAEB',
-  inverse: { color: '#FBEAEB', bgColor: '#2F3C7E', c: '#FBEAEB', b: '#2F3C7E' }
+  name: 'LightBlueCobalt',
+  color: '#CADCFC',
+  bgColor: '#00246B',
+  c: '#CADCFC',
+  b: '#00246B',
+  inverse: { color: '#00246B', bgColor: '#CADCFC', c: '#00246B', b: '#CADCFC' }
 }
 */
 /* Same as above */
@@ -37,12 +37,12 @@ console.log(colors.obj.BluePastelPink);
 console.log(coloremeList[11]);
 /*
 {
-  name: 'CherryRedOffWhite',
-  color: '#990011',
-  bgColor: '#FCF6F5',
-  c: '#990011',
-  b: '#FCF6F5',
-  inverse: { color: '#FCF6F5', bgColor: '#990011', c: '#FCF6F5', b: '#990011' }
+  name: 'BlondeYellowCandyPink',
+  color: '#F9EC7E',
+  bgColor: '#E26274',
+  c: '#F9EC7E',
+  b: '#E26274',
+  inverse: { color: '#E26274', bgColor: '#F9EC7E', c: '#E26274', b: '#F9EC7E' }
 }
 */
 /* Previous analogue */
