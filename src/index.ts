@@ -110,6 +110,96 @@ export const coloremeList: ColorItem[] = [
 		bgColor: '#341514',
 	},
 	{
+		name: 'CobaltBrown',
+		color: '#1C5789',
+		bgColor: '#341514',
+	},
+	{
+		name: 'MustardMauve',
+		color: '#EDC400',
+		bgColor: '#B25690',
+	},
+	{
+		name: 'MustardGreen',
+		color: '#EDC400',
+		bgColor: '#71B379',
+	},
+	{
+		name: 'BlueMustard',
+		color: '#1D71BA',
+		bgColor: '#EDC400',
+	},
+	{
+		name: 'SandUmber',
+		color: '#D4B8B1',
+		bgColor: '#866C69',
+	},
+	{
+		name: 'SandEspresso',
+		color: '#D4B8B1',
+		bgColor: '#53331F',
+	},
+	{
+		name: 'RaspberryPinkClay',
+		color: '#D8D0CD',
+		bgColor: '#C83F5F',
+	},
+	{
+		name: 'WalnutPersimmonOrange',
+		color: '#4D181C',
+		bgColor: '#DD671E',
+	},
+	{
+		name: 'WalnutHoney',
+		color: '#4D181C',
+		bgColor: '#E58D2E',
+	},
+	{
+		name: 'SandBlack',
+		color: '#D1B5A3',
+		bgColor: '#0C0D0D',
+	},
+	{
+		name: 'SandOrange',
+		color: '#D1B5A3',
+		bgColor: '#E36858',
+	},
+	{
+		name: 'BabyBlueRubyRed',
+		color: '#CEE6F2',
+		bgColor: '#962E2A',
+	},
+	{
+		name: 'PeachRubyRed',
+		color: '#E3867D',
+		bgColor: '#962E2A',
+	},
+	{
+		name: 'PastelPinkButterYellow',
+		color: '#EECCD3',
+		bgColor: '#EEC95C',
+	},
+	{
+		name: 'TealPapayaOrange',
+		color: '#80C4B7',
+		bgColor: '#E3856B',
+	},
+	{
+		name: 'NeonBlueBrandy',
+		color: '#B6818B',
+		bgColor: '#802621',
+	},
+	{
+		name: 'PowderPinkBrandy',
+		color: '#B8912E',
+		bgColor: '#802621',
+	},
+	{
+		name: 'AegeanBluePersimmonOrange',
+		color: '#144058',
+		bgColor: '#DD671E',
+	},
+	{
 		name: 'BluePastelPink',
 		color: '#2F3C7E',
 		bgColor: '#FBEAEB',
@@ -128,6 +218,11 @@ export const coloremeList: ColorItem[] = [
 		name: 'CherryRedOffWhite',
 		color: '#990011',
 		bgColor: '#FCF6F5',
+	},
+	{
+		name: 'RusticOrangeDirtBrown',
+		color: '#CF9032',
+		bgColor: '#6C3622',
 	},
 	{
 		name: 'BabyBlueWhite',
