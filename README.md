@@ -55,6 +55,8 @@ console.log(colors.random()); // get random color pair
 
 ![Screenshot](media/screenshot.png)
 
+![Screenshot2](media/screenshot-2.png)
+
 ## License
 
 MIT © [Rushan Alyautdinov](https://github.com/akgondber)
